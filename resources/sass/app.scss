@@ -1,0 +1,29 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Font awesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+
+
+// Flag icons
+@import 'flag-icon-css/css/flag-icon.css';
+// Custom
+@import 'hero';
+@import 'funfact';
+@import 'listing';
+@import 'hotline';
+@import 'navbar';
+@import 'wizzard';
+@import 'logreg';
+@import 'icons';
+@import 'home';
+@import 'autocomplete';
+@import 'datetimepicker/dist/datetimepicker.css';

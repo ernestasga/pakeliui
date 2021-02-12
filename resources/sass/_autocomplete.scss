@@ -1,0 +1,16 @@
+@import 'easy-autocomplete/dist/easy-autocomplete.css';
+
+.easy-autocomplete-container{
+    position:absolute;
+    z-index:1000;
+    color: black;
+}
+.easy-autocomplete{
+    width: 80% !important
+}
+.form-wrapper{
+    width: 500px;
+}
+.input-group-prepend{
+    max-height: 37px;
+}
